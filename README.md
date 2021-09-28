@@ -1,2 +1,9 @@
 # Portfolio
 The bare minimum
+
+To-do
+1.Community section;
+2.Services section;
+3.Portfolio section;
+4.About Me section;
+5. Optimize Contact Me;
