@@ -8,5 +8,5 @@ To-do
  | 4.About Me section;
  | 5. Optimize Contact Me;
 
-
+Preview:
 ![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/pre.png)
