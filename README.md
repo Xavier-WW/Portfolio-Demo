@@ -7,3 +7,6 @@ To-do
  | 3.Portfolio section; slideshow
  | 4.About Me section;
  | 5. Optimize Contact Me;
+
+
+![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/pre.png)
