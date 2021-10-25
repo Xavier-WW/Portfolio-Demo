@@ -9,5 +9,5 @@ To-do
  | 5. Optimize Contact Me;
  
 See demo: https://xavier-ww.github.io/Portfolio/ \
-Preview:
+Preview: 
 ![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/pre.png)
