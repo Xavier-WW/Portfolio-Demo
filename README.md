@@ -1,7 +1,6 @@
 # Portfolio
-The bare minimum
+The bare minimum of markup and JS
 
-To-do
  | 1.Community section;
  | 2.Services section;
  | 3.Portfolio section; slideshow
