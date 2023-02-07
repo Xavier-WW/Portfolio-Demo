@@ -7,6 +7,6 @@ The bare minimum of markup and JS
  | 4.About Me section;
  | 5. Optimize Contact Me;
  
-See demo <a href="https://xavier-ww.github.io/Portfolio/" target="_blank">here on Github pages</a>\
+See demo <a href="https://xavier-ww.github.io/Demo-Portfolio-Project/" target="_blank">here on Github pages</a>\
 Preview: 
 ![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/pre.png)
