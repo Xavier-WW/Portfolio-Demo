@@ -13,10 +13,10 @@ Preview:
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="preview.jpg" width="450"/>
+        	    <img src="preview.jpg" alt="Desktop preview of the project" width="450" />
       	    </td>
             <td style="padding:10px">
-            	<img src="mobilepre.jpg" width="200"/>
+            	<img src="mobilepre.jpg" alt="Mobile preview of the project" width="200"/>
             </td>
         </tr>
     </table>
