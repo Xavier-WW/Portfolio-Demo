@@ -9,13 +9,15 @@ The bare minimum of markup and JS
  
 See demo <a href="https://xavier-ww.github.io/Demo-Portfolio-Project/" target="_blank">here on Github pages</a>\
 Preview: 
-
-<img src="preview.jpg" alt="preview of this project" height="60%" >
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="preview.jpg" alt="desktop preview of this project" width="55%"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="mobilepre.jpg" alt="mobile preview of this project"width="30%"/>
-     </div>
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="preview.jpg" width="450"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="mobilepre.jpg" width="200"/>
+            </td>
+        </tr>
+    </table>
 </div>
