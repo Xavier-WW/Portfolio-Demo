@@ -177,6 +177,27 @@ img{
     background-color: var(--body-color);
 }
 
+/* ==================== GITHUB BUTTON ==================== */
+/*#github-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    text-decoration: none;
+  }
+  
+  #github-btn i {
+    font-size: 24px;
+  } */
+
 /*==================== NAV ====================*/
 .nav
 {
@@ -913,7 +934,8 @@ img{
 
 .footer__copy{
     text-align: center;
-    margin-top: var(--mb-3);
+    margin-top: var(--mb-1);
+    font: 0.7em sans-serif;
 }
 
 .footer__title,
@@ -1181,7 +1203,7 @@ img{
         justify-self: flex-end;
     }
     .footer__copy{
-        margin-top: 4.5rem;
+        margin-top: 1.6rem;
     }
 }
 
