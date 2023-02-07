@@ -9,4 +9,4 @@ The bare minimum of markup and JS
  
 See demo <a href="https://xavier-ww.github.io/Demo-Portfolio-Project/" target="_blank">here on Github pages</a>\
 Preview: 
-![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/pre.png)
+![Homepage Preview](https://github.com/Xavier-WW/Portfolio/blob/main/preview.jpg)
